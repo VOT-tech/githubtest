@@ -24,7 +24,7 @@
   <section class="top-container">
     <header class="showcase">
       <h1>Welcome Home</h1>
-      <p>Lorem ipsun sghrt ethubao sbjvdye djrht ethe sther oajsd dgh. </p>
+      <p>Lorem ipsun sghrt ethubao sbjvdye djrht ethe sther oajsd dgh. It's a new day </p>
       <a href="" class="btn">Read More</a>
     </header>
     <div class="top-box top-box-a">
